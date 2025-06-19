@@ -1,0 +1,2 @@
+# ISXMPL4310ex12
+IS4310-485M2 Schematic
